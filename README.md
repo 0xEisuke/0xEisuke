@@ -17,7 +17,7 @@ I love turning ideas into reality — from AI agents to full-stack applications 
 
 ## 🛠️ Tech Stack
 
-![Tech Stack](https://skillicons.dev/icons?i=python,js,typescript,react,nextjs,nodejs,flask,fastapi,aws,gcp,docker,git)
+![Tech Stack](https://skillicons.dev/icons?i=python,js,typescript,react,nextjs,nodejs,flask,swift,tailwind,pytorch,fastapi,gcp,docker,git,github,raspberrypi)
 
 ---
 
